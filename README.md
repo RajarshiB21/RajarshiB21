@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Rajarshi Banerjee</h1>
 <h3 align="center">A passionate Deep Learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Eqa.gif">
