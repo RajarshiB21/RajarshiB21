@@ -1,7 +1,7 @@
-[![MasterHead](https://i.gifer.com/3Eqa.gif)]
+[![MasterHead](https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif)]
 <h1 align="center">Hi 👋, I'm Rajarshi Banerjee</h1>
 <h3 align="center">A passionate Deep Learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Eqa.gif">
+<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshib21&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshib21" /> </p>
 
