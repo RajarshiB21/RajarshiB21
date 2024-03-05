@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Pytorch, Python, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **banerjeerajarshi21@gmail.com**
+- 📫 How to reach me **banerjeerajarshi22@gmail.com**
 
 - ⚡ Fun fact **Bit of a perfectionist**
 
